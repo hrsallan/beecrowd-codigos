@@ -16,7 +16,7 @@ Todos os códigos aqui presentes foram desenvolvidos por mim e aceitos pela plat
 
 Para manter a organização, o repositório está estruturado em pastas, cada uma representando uma categoria específica de problemas ou uma competição, facilitando a navegação e a busca por soluções.
 
-## 👨‍💻 Autor
+## 👨🏻‍💻 Autor
 
 * **Autor:** Allan Henrique Rosa Silva
 * **Instituição:** UNIPAC Barbacena
